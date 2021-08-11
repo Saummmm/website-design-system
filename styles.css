@@ -1,0 +1,49 @@
+* {
+  text-align: left;
+  font-family: roboto;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.container {
+  margin: 10px auto;
+  border: 1px solid black;
+  width: 1000px;
+  padding: 10px 20px;
+}
+
+.colourContainer {
+  margin: 0px auto;
+  text-align: center;
+}
+
+.color-box {
+  width: 200px;
+  display: inline-block;
+  text-align: center;
+  padding: 10px 5px;
+  margin: 10px;
+}
+
+.seaBox {
+  background-color: #40dd9d;
+}
+
+.grayBox {
+  background-color: #22343c;
+  color: white;
+}
+
+.blackBox {
+  background-color: black;
+  color: white;
+  padding-top: 30px;
+}
+
+.whiteBox {
+  background-color: white;
+  padding-top: 30px;
+}
