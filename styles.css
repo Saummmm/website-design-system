@@ -6,6 +6,7 @@
 
 h1 {
   font-size: 36px;
+  text-align: center;
 }
 
 .container {
@@ -23,9 +24,12 @@ h1 {
 .color-box {
   width: 200px;
   display: inline-block;
-  text-align: center;
-  padding: 10px 5px;
+  padding: 10px 5px 0px;
   margin: 10px;
+}
+
+.color-box p {
+  text-align: center;
 }
 
 .seaBox {
@@ -46,4 +50,42 @@ h1 {
 .whiteBox {
   background-color: white;
   padding-top: 30px;
+}
+
+.roboto {
+  font-family: roboto;
+}
+
+.montserrat {
+  font-family: montserrat;
+}
+
+.fira-sans {
+  font-family: "fira sans";
+}
+
+.thin {
+  font-weight: 100;
+}
+
+.regular {
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.font-label {
+  font-size: 24px;
+}
+
+.fonts-container {
+  margin: 0px auto;
+}
+
+.font-panel {
+  max-width: 800px;
+  display: inline-block;
+  margin-left: 20px;
 }
