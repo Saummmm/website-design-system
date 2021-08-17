@@ -89,3 +89,28 @@ h1 {
   display: inline-block;
   margin-left: 20px;
 }
+
+.text-panel h1 {
+  text-align: left;
+  font-weight: 700;
+  font-size: 36px;
+  font-family: roboto;
+}
+
+.text-panel h2 {
+  font-weight: 600;
+  font-size: 18px;
+  font-family: roboto;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: montserrat;
+}
+
+.text-panel nav {
+  font-weight: 300;
+  font-size: 14px;
+  font-family: roboto;
+}
