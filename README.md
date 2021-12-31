@@ -1,3 +1,3 @@
 # website-design-system
 
-A css style reference guide for my self
+A css style reference guide for myself
